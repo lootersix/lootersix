@@ -1,10 +1,9 @@
- Olá, Esse é o perfil do Estevan Sena 🖥️
-
+ Olá, Esse é o perfil do **Estevan Sena** 🖥️
  ##
 
-- 📚 Atualmento trabalho com automação via Puppeteer.
-- 📚 Estou estudando e aprendendo JavaScript, Node.js, HTML e CSS.
-- 📚 Desenvolvendo e atualizando o meu portfolio.
+- 📚 Atualmento trabalho com automação via **Puppeteer**.
+- 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML** e **CSS**.
+- 📚 Desenvolvendo e atualizando o meu **Portfolio**.
 
 <div><br> 
 <a href="https://github.com/estevansena">

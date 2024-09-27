@@ -1,5 +1,5 @@
- Olá, Esse é o perfil do **Estevan Sena** 🖥️
- ##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=C238F7&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+perfil+do..;Estevan+Sena)](https://git.io/typing-svg)
+
 
 - 📚 Atualmento trabalho com automação via **Puppeteer**.
 - 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML** e **CSS**.

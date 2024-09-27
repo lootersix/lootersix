@@ -8,7 +8,6 @@
 <div><br> 
 <a href="https://github.com/estevansena">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>

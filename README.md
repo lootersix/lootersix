@@ -2,7 +2,7 @@
 
 
 - 📚 Atualmento trabalho com automação via **Puppeteer**.
-- 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML** e **CSS**.
+- 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML**, **CSS**, **VUE3**, **VITE** e **TAILWIND**.
 - 📚 Desenvolvendo e atualizando o meu **<a href="https://estevansena.github.io/portfolio/" target="_blank">Portfolio</a>**.
 
 <div><br> 

@@ -3,8 +3,7 @@
 
 - 📚 Atualmento trabalho com automação via **Puppeteer**.
 - 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML**, **CSS**, **VUE3**, **VITE** e **TAILWIND**.
-- 📚 Minha primeira aplicação, um gerador de arquivo no formato objeto **<a href="[https://estevansena.github.io/portfolio/](https://estevansena.github.io/create-map-config/)" target="_blank">Create Map Config</a>**.
-
+- 📚 Essa é minha primeira aplicação: um gerador de arquivos no formato objeto. Confira aqui: <a href="https://estevansena.github.io/create-map-config/" target="_blank">Create Map Config</a>.
 <div><br> 
 <a href="https://github.com/estevansena">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>

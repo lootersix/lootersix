@@ -6,7 +6,7 @@
 - 📚 Essa é minha primeira aplicação: um gerador de arquivos no formato de objeto JavaScript. Confira aqui: <a href="https://lootersix.github.io/create-map-config/" target="_blank">Create Map Config</a>.
 <div><br> 
 <a href="https://github.com/lootersix">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lootersix&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lootersix&layout=compact&theme=tokyonight"/>
 </div>
   

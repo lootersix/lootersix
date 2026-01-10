@@ -3,6 +3,7 @@
 
 Desenvolvedor com experiência em automação e web scraping utilizando Puppeteer, com foco atual em desenvolvimento Front-end.
 Estudo e pratico HTML, CSS, JavaScript, Node.js, Vue 3, Vite e Tailwind CSS.
+<br> 
 Desenvolvi a aplicação Create Map Config, um gerador de arquivos JSON a partir de formulários, utilizado como sistema de configuração em projetos de automação.
 <br> 
 Confira aqui: <a href="https://estevansena.github.io/create-map-config/" target="_blank">Create Map Config</a>.

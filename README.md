@@ -5,6 +5,10 @@ Desenvolvedor com experiência em automação e web scraping utilizando Puppetee
 Estudo e pratico HTML, CSS, JavaScript, Node.js, Vue 3, Vite e Tailwind CSS.
 <br> 
 Desenvolvi a aplicação <a href="https://estevansena.github.io/create-map-config/" target="_blank">Create Map Config</a>, um gerador de arquivos JSON a partir de formulários, utilizado como sistema de configuração em projetos de automação.
+<br><br>
+Developer with experience in automation and web scraping using Puppeteer, currently focused on Front-end development. I study and practice HTML, CSS, JavaScript, Node.js, Vue 3, Vite, and Tailwind CSS.
+I developed the Create Map Config application, a JSON file generator based on forms, used as a configuration system in automation projects.
+
 <div><br> 
 <a href="https://github.com/lootersix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lootersix&show_icons=true&theme=tokyonight"/>

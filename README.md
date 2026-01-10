@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=C238F7&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-- 📚 Atualmento trabalho com automação via **Puppeteer**.
-- 📚 Estou estudando e aprendendo **JavaScript**, **Node.js**, **HTML**, **CSS**, **VUE3**, **VITE** e **TAILWIND**.
-- 📚 Essa é minha primeira aplicação: um gerador de arquivos no formato de objeto JavaScript. Confira aqui: <a href="https://lootersix.github.io/create-map-config/" target="_blank">Create Map Config</a>.
+- 📚 Desenvolvedor com experiência em automação e web scraping utilizando Puppeteer, com foco atual em desenvolvimento Front-end.
+Estudo e pratico HTML, CSS, JavaScript, Node.js, Vue 3, Vite e Tailwind CSS.
+Desenvolvi a aplicação Create Map Config, um gerador de arquivos JSON a partir de formulários, utilizado como sistema de configuração em projetos de automação.
+Confira aqui: <a href="https://estevansena.github.io/create-map-config/" target="_blank">Create Map Config</a>.
 <div><br> 
 <a href="https://github.com/lootersix">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lootersix&show_icons=true&theme=tokyonight"/>

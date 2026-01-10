@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=C238F7&width=435&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
-- 📚 Desenvolvedor com experiência em automação e web scraping utilizando Puppeteer, com foco atual em desenvolvimento Front-end.
+Desenvolvedor com experiência em automação e web scraping utilizando Puppeteer, com foco atual em desenvolvimento Front-end.
 Estudo e pratico HTML, CSS, JavaScript, Node.js, Vue 3, Vite e Tailwind CSS.
 Desenvolvi a aplicação Create Map Config, um gerador de arquivos JSON a partir de formulários, utilizado como sistema de configuração em projetos de automação.
+<br> 
 Confira aqui: <a href="https://estevansena.github.io/create-map-config/" target="_blank">Create Map Config</a>.
 <div><br> 
 <a href="https://github.com/lootersix">

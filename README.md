@@ -9,11 +9,7 @@ Desenvolvi a aplicação <a href="https://estevansena.github.io/create-map-confi
 Developer with experience in automation and web scraping using Puppeteer, currently focused on Front-end development. I study and practice HTML, CSS, JavaScript, Node.js, Vue 3, Vite, and Tailwind CSS.
 I developed the Create Map Config application, a JSON file generator based on forms, used as a configuration system in automation projects.
 
-<div><br> 
-<a href="https://github.com/estevansena">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansena&layout=compact&theme=tokyonight"/>
-</div>
+
   
 <div style="display: inline_block"><br>
 <img aligh="center" alt="Estevan.Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">

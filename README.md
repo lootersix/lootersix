@@ -10,7 +10,7 @@ Developer with experience in automation and web scraping using Puppeteer, curren
 I developed the Create Map Config application, a JSON file generator based on forms, used as a configuration system in automation projects.
 
 <div><br> 
-<a href="https://github.com/lootersix">
+<a href="https://github.com/estevansena">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevansena&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevansena&layout=compact&theme=tokyonight"/>
 </div>
